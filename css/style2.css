@@ -10,11 +10,33 @@
         position:relative;
         background-color: #4aaaa5;
         padding:27px;
-        left:13.4vw;
+        left:14.3vw;
         font-family:'Georgia', Times, Times New Roman, serif;
         line-height: 11vh;
         font-size:2rem;
         color:white;
+    }
+    .norm1 {
+        position:relative;
+        top:5vh;
+        left: 5vw;
+        margin-right: 100px;
+        color: #777777;
+        line-height: 5vh;
+        position:relative;
+        font-size: 20px;
+        font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    }
+    input[type=submit] {
+        width: 20%;
+        position:relative;
+        background-color: #4aaaa5;
+        color: white;
+        padding: 14px 20px;
+        left: 1vw;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
     }
      .content {
         position:absolute;
@@ -28,8 +50,7 @@
     .fix{
         position: relative;
         top: 3vh;
-        left: 17vw;
-        font-size: 50px;
+        left: 3vw;
         margin: 0px 0px 25px 0px;
     }
     .norm {
@@ -59,8 +80,8 @@
     }
     .photocover {
         position:relative;
-        left: 4.2vw;
-        top: -3vh;
+        left: 6.8vw;
+        top: -12vh;
         width:26.7vw;
         text-align:center;
         padding: 10px 0px 10px 0px;
@@ -70,8 +91,8 @@
     }
     .photocover2 {
         position:relative;
-        left: 6.6vw;
-        top: -3vh;
+        left: -25vw;
+        top: 20vh;
         width:26.7vw;
         text-align:center;
         padding: 10px 0px 10px 0px;
@@ -81,8 +102,8 @@
     }
     .photocover3 {
         position:relative;
-        left: -25vw;
-        top: -5vh;
+        left: 4.2vw;
+        top: -36vh;
         width:26.7vw;
         text-align:center;
         padding: 10px 0px 10px 0px;
@@ -92,8 +113,8 @@
     }
     .photocover4 {
         position:relative;
-        left: 4.2vw;
-        top: -9.7vh;
+        left: 6.8vw;
+        top: -36vh;
         width:26.5vw;
         text-align:center;
         padding: 10px 0px 10px 0px;
@@ -103,8 +124,8 @@
     }
     .photocover5 {
         position:relative;
-        left: -25vw;
-        top: 10.8vh;
+        left: 4.5vw;
+        top: -12vh;
         width:26.5vw;
         text-align:center;
         padding: 10px 0px 10px 0px;

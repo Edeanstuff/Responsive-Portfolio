@@ -1,0 +1,116 @@
+@media only screen and (min-width: 769px) and (max-width: 980px) {
+    .top {
+        position:relative;
+        background-color: #4aaaa5;
+        padding:27.4px;
+        left:2.9vw;
+        font-family:'Georgia', Times, Times New Roman, serif;
+        line-height: 11.5vh;
+        font-size:2rem;
+        color:white;
+    }
+    .fix{
+        position: relative;
+        top: 10vh;
+        line-height: 1vh;
+        left: 10vw;
+        margin-bottom: 2vh;
+    }
+    .content {
+        position:relative;
+        top: 100px;
+        left: -10vw;
+        border: 1px #d3d3d3 solid;
+        background-color: #ffffff;
+        padding: 0px 0px 50px 0px;
+    }
+    .norm1 {
+        position:relative;
+        top:2vh;
+        left: 3vw;
+        margin-right: 100px;
+        color: #777777;
+        line-height: 2vh;
+        position:relative;
+        font-size: 1.2rem;
+        font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    }
+    .norm {
+        position:relative;
+        top:5vh;
+        left: 5vw;
+        margin-right: 100px;
+        color: #777777;
+        line-height: 4vh;
+        position:relative;
+        font-size: 15px;
+        font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    }
+    .photo {
+        position: relative;
+        float: left;
+        height:150px;
+        width:140px;
+        top: 5vh;
+        left: 3vw;
+        margin-bottom: 1.5vh;
+    }
+    .photocover {
+        position:relative;
+        left: 10.1vw;
+        top: -5vh;
+        width:14.5vw;
+        text-align:center;
+        padding: 10px 0px 10px 0px;
+        color:white;
+        background-color: #4aaaa5;
+        float:left;
+    }
+    .photocover2 {
+        position:relative;
+        left: -12.5vw;
+        top: 17vh;
+        width:14.5vw;
+        text-align:center;
+        padding: 10px 0px 10px 0px;
+        color:white;
+        background-color: #4aaaa5;
+        float:left;
+    }
+    .photocover3 {
+        position:relative;
+        left: 4vw;
+        top: -5vh;
+        width:14.5vw;
+        text-align:center;
+        padding: 10px 0px 10px 0px;
+        color:white;
+        background-color: #4aaaa5;
+        float:left;
+    }
+    .photocover4 {
+        position:relative;
+        left: 6.1vw;
+        top: -5vh;
+        width:14.5vw;
+        text-align:center;
+        padding: 10px 0px 10px 0px;
+        color:white;
+        background-color: #4aaaa5;
+        float:left;
+    }
+    .photocover5 {
+        position:relative;
+        left: 8.1vw;
+        top: -5vh;
+        width:14.5vw;
+        text-align:center;
+        padding: 10px 0px 10px 0px;
+        color:white;
+        background-color: #4aaaa5;
+        float:left;
+    }
+
+}
+
+    
